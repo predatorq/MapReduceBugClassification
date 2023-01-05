@@ -2577,7 +2577,8 @@ WebDriver BiDi listening on ws://127.0.0.1:62222
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofileOMjkCM\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:62222/devtools/browser/028697cc-a337-44c0-a25d-04776e4519e4
-1672808583394	geckodriver	INFO	Listening on 127.0.0.1:62529
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62529
 1672808586533	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofileERVDZh"
 *** You are running in headless mode.
 1672808586876	Marionette	INFO	Marionette enabled
@@ -2693,7 +2694,8 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
-1672808722154	geckodriver	INFO	Listening on 127.0.0.1:62813
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62813
 1672808725294	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofile8ucfN8"
 *** You are running in headless mode.
 1672808725631	Marionette	INFO	Marionette enabled
@@ -2935,7 +2937,8 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
-1672808864054	geckodriver	INFO	Listening on 127.0.0.1:63158
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63158
 1672808867186	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofiletQAdlK"
 *** You are running in headless mode.
 1672808867507	Marionette	INFO	Marionette enabled
@@ -2981,7 +2984,8 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
-1672809291553	geckodriver	INFO	Listening on 127.0.0.1:63770
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63770
 1672809294675	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofileDme9jg"
 *** You are running in headless mode.
 1672809295009	Marionette	INFO	Marionette enabled
@@ -4271,7 +4275,8 @@ WebDriver BiDi listening on ws://127.0.0.1:54123
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofile9YmjSK\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:54123/devtools/browser/6d8849bc-9b99-4508-b352-3dc8772ad17c
-1672812457759	geckodriver	INFO	Listening on 127.0.0.1:54498
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54498
 1672812460897	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "--headless" "--disable-extensions" "--disable-gpu" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofile39MYyS"
 *** You are running in headless mode.
 1672812461402	Marionette	INFO	Marionette enabled
@@ -4281,7 +4286,8 @@ WebDriver BiDi listening on ws://127.0.0.1:54499
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofile39MYyS\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:54499/devtools/browser/5bd2ee6d-dab3-4f3a-9bee-0e6f648c8c22
-1672812474345	Marionette	INFO	Stopped listening on port 54548
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ort 54548
 !!! error running onStopped callback: TypeError: callback is not a function
 1672812483048	geckodriver	INFO	Listening on 127.0.0.1:54905
 1672812486175	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "--headless" "--disable-extensions" "--disable-gpu" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "54906" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofileuzKoBr"
@@ -4785,7 +4791,8 @@ WebDriver BiDi listening on ws://127.0.0.1:57253
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofilesaKTG4\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:57247/devtools/browser/0622d657-2c50-49d0-94c8-41c1a5fad307
-1672813189694	geckodriver	INFO	Listening on 127.0.0.1:57448
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57448
 1672813192871	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "--headless" "--disable-extensions" "--disable-gpu" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "57449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofilejcDWPM"
 *** You are running in headless mode.
 1672813193505	Marionette	INFO	Marionette enabled
@@ -5173,7 +5180,8 @@ WebDriver BiDi listening on ws://127.0.0.1:60142
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofileWGwlLk\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:60142/devtools/browser/6d2bef21-9eeb-406c-8877-3c6c808e6489
-1672814007017	geckodriver	INFO	Listening on 127.0.0.1:60397
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60397
 1672814010183	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "--headless" "--disable-extensions" "--disable-gpu" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "60398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofilevUckOB"
 *** You are running in headless mode.
 1672814010763	Marionette	INFO	Marionette enabled
@@ -5183,7 +5191,8 @@ WebDriver BiDi listening on ws://127.0.0.1:60398
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofilevUckOB\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:60398/devtools/browser/e5f103ec-1c54-4155-b15b-d39e26cc1fee
-1672814138075	geckodriver	INFO	Listening on 127.0.0.1:60911
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60911
 1672814141227	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "--headless" "--disable-extensions" "--disable-gpu" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "60912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofilezvl08O"
 *** You are running in headless mode.
 1672814141751	Marionette	INFO	Marionette enabled
@@ -5974,7 +5983,8 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
-1672814926904	geckodriver	INFO	Listening on 127.0.0.1:62408
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62408
 1672814930055	mozrunner::runner	INFO	Running command: "C:\\Users\\predator\\scoop\\shims\\firefox.exe" "--marionette" "--headless" "--disable-extensions" "--disable-gpu" "blink-settings=imagesEnabled=false" "--remote-debugging-port" "62409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\predator\\AppData\\Local\\Temp\\rust_mozprofileEHqRXt"
 *** You are running in headless mode.
 1672814930393	Marionette	INFO	Marionette enabled
