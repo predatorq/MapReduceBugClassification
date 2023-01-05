@@ -16807,3 +16807,4 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
 1672819579367	Marionette	INFO	Stopped listening on port 63609
+1672834681603	geckodriver	INFO	Listening on 127.0.0.1:60689
