@@ -20,7 +20,7 @@ class Classification(MRJob):
                 if dictionary[id][0] == 'WORDCOUNT':
                     pxc_count = pxc_count + int(dictionary[id][2])
             for guess_label in all_label:
-                pc, pxc_all, pxc1= 0, 0, 0
+                pc, pxc_all, pxc1 = 0, 0, 0
                 for id in range(len(dictionary)):
                     if dictionary[id][0] == guess_label.upper():
                         pc = int(dictionary[id][2]) / pc_sum
@@ -35,7 +35,7 @@ class Classification(MRJob):
                         if dictionary[id][0] == word and dictionary[id][1] == guess_label:
                             pxc1 = int(dictionary[id][2])
                             break
-                    pcx = pcx + math.log((pxc1+1) / (pxc_all+pxc_count))
+                    pcx = pcx + math.log((pxc1 + 1) / (pxc_all + pxc_count))
                 yield (index, true_label), (pcx, guess_label)
 
     def combiner1(self, tag, counts):
@@ -46,10 +46,11 @@ class Classification(MRJob):
 
     def mapper2(self, tag, counts):
         index, true_label = tag
-        _ , guess_label = counts
+        _, guess_label = counts
         if true_label == guess_label:
             yield (true_label, 'correct'), 1
         yield (true_label, 'all'), 1
+
     def combiner2(self, tag, counts):
         yield tag, sum(counts)
 
@@ -92,3 +93,4 @@ if __name__ == '__main__':
             pc_sum = pc_sum + int(dictionary[i][2])
 
     Classification.run()
+
