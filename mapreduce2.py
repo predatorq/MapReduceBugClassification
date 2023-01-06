@@ -1,5 +1,4 @@
 from mrjob.job import MRJob
-import pandas as pd
 import csv
 import math
 
